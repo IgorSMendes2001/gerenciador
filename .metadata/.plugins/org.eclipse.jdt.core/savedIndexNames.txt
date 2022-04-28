@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/igor/Documentos/gerenciador/.metadata/.plugins/org.eclipse.jdt.core
